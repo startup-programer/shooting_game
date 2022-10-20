@@ -2,7 +2,9 @@
 
 プログラミングスクールで作成した簡易シューティングを改良したものです。
 
-![game_play](https://user-images.githubusercontent.com/114842913/196948720-2f9e8dac-15cc-4586-9297-eb596077552c.mp4)
+![game_play]
+
+(https://user-images.githubusercontent.com/114842913/196948720-2f9e8dac-15cc-4586-9297-eb596077552c.mp4)
 
 ＝＝＝＝＝＝＝＝＝＝＝＝＝後付けの機能＝＝＝＝＝＝＝＝＝＝＝＝＝
 ・BGM
