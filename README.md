@@ -2,7 +2,7 @@
 
 プログラミングスクールで作成した簡易シューティングを改良したものです。
 
-![game_play](https://user-images.githubusercontent.com/114842913/196159465-96540f56-f025-49bf-b39c-de4aff9d9534.jpg)
+![game_play](https://user-images.githubusercontent.com/114842913/196948720-2f9e8dac-15cc-4586-9297-eb596077552c.mp4)
 
 ＝＝＝＝＝＝＝＝＝＝＝＝＝後付けの機能＝＝＝＝＝＝＝＝＝＝＝＝＝
 ・BGM
@@ -31,3 +31,6 @@
 
 ・無料の範囲で利用できるデータベースサービスを利用したオンラインスコアの実装。
 　今後挑戦してみたい。
+
+
+
